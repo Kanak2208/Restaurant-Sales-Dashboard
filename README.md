@@ -23,7 +23,7 @@ It enables restaurant owners and analysts to track performance through interacti
 ## 📁 Files Included
 
 - `Restaurant_Sales_Dashboard.pdf` – Snapshot of the final dashboard
-- `sample-data.xlsx` – Simulated restaurant order data (Jan–Mar 2025)
+- `Restaurant_Dashboard_Sample.xlsx` – Simulated restaurant order data (Jan–Mar 2025)
 - `screenshots/` – Visual previews of the dashboard sections
 
 ---
