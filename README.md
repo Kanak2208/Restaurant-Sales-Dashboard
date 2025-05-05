@@ -38,7 +38,7 @@ It enables restaurant owners and analysts to track performance through interacti
 
 ## 🖼️ Preview
 
-![Dashboard Preview](screenshots/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
