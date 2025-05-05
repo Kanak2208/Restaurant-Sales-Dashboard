@@ -12,7 +12,7 @@ This project is a comprehensive sales dashboard built using Google Sheets and Go
 
 ## 🔗 Live Dashboard
 
-[View the live Looker Studio report](https://lookerstudio.google.com/reporting/YOUR-DASHBOARD-ID)
+[View the live Looker Studio report]((https://lookerstudio.google.com/s/j3gHb629B3g))
 
 ## 📁 Files
 
