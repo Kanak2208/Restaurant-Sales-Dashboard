@@ -1,35 +1,64 @@
 # Restaurant-Sales-Dashboard
 An interactive restaurant sales dashboard built with Google Sheets and Looker Studio to track revenue, top items, rush hours, and sales trends.
 
-# Restaurant Sales Dashboard
 
-This project is a comprehensive sales dashboard built using Google Sheets and Google Looker Studio. It helps restaurants analyze:
+This project is a comprehensive restaurant sales analytics dashboard built using **Google Sheets** and **Looker Studio**.
 
-- 📈 Revenue trends over time
-- 🍕 Top-selling food and drink items
-- ⏰ Rush hours and busy weekdays
-- 📊 Category-based revenue breakdown
+It enables restaurant owners and analysts to track performance through interactive visualizations including:
+- 💰 **Total Revenue, Average Order Value, and Total Orders**
+- 🍽️ **Top-Selling Items** segmented by Food and Drink
+- 🔥 **Rush Hour Heatmap** by Hour and Weekday
+- 📈 **Sales Trends** over time
+- 🥧 **Category-wise Revenue Breakdown**
+
+---
 
 ## 🔗 Live Dashboard
 
-[View the live Looker Studio report]((https://lookerstudio.google.com/s/j3gHb629B3g))
+👉 [View the live Looker Studio report](https://lookerstudio.google.com/reporting/77b61a83-1caa-42b5-aa63-d5e2fb89101e)
 
-## 📁 Files
 
-- `Restaurant_Sales_Dashboard.pdf` – PDF export of the dashboard
-- `sample-data.xlsx` – Sample monthly restaurant data
-- `screenshots/` – Preview images of the dashboard layout
+---
 
-## 🛠️ Tech Stack
+## 📁 Files Included
 
-- Google Sheets (for data storage and prep)
-- Looker Studio (for visualization)
-- GitHub (for documentation and showcase)
+- `Restaurant_Sales_Dashboard.pdf` – Snapshot of the final dashboard
+- `sample-data.xlsx` – Simulated restaurant order data (Jan–Mar 2025)
+- `screenshots/` – Visual previews of the dashboard sections
 
-## 📷 Dashboard Preview
+---
 
-![Dashboard Screenshot](screenshots/dashboard-preview.png)
+## 🛠️ Tools Used
+
+- **Google Sheets** – Data collection and preprocessing
+- **Looker Studio (Data Studio)** – Visualization and interactive dashboard
+- **GitHub** – Project documentation and sharing
+
+---
+
+## 🖼️ Preview
+
+![Dashboard Preview](screenshots/dashboard-preview.png)
+
+---
+
+## 📅 Project Scope
+
+This dashboard was designed to:
+- Identify high-revenue time slots
+- Analyze top-performing menu items
+- Optimize restaurant staffing by understanding customer patterns
+- Provide a reusable template for other hospitality data dashboards
+
+---
 
 ## 👤 Author
 
-- [Your Name](https://github.com/yourusername)
+**Kanak Yadav**  
+GitHub: [@kanak2208](https://github.com/kanak2208)
+
+---
+
+## 📜 License
+
+MIT License – feel free to reuse and customize with credit.
